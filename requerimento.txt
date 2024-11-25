@@ -1,0 +1,15 @@
+PEDIDO
+Preciso ter um bot assistente que faça minhas funções de lançamento contábil da empresa que trabalho, 
+pois, o próprio sistema é muito maçante, e gostaria de fazer os lançamentos no excel, 
+entregar ao bot o excel pronto para o bot ir lançando enquanto faço outras atividades.
+
+FUNCIONALIDADES NECESSÁRIAS
+# Entrar na planilha 
+# Copiar informação de um campo e colar no seu campo correspondente
+# Repetir esses passos para outros campos até preencher os campos daquela página
+# Clicar em próxima
+# Repetir os mesmos passos e ir para a próxima página (página 2)
+# Repetir os mesmos passos e finalizar o cadastro daquele produto e clicar em concluir
+# Clicar em ok para finalizar o processo
+# Clicar no ok novamente na mensagem de confirmação de salvamento no banco de dados
+# Cliclar em "adicionar mais um" e repetir o processo até finalizar a planilha
